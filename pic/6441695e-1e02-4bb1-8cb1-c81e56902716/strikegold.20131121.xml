@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strikegold-config>
+  <strikegold-Time beginTime="2013-11-22 00:00" endTime="2013-12-06 00:00" />
+  <strikegold-detail testVerifyPic="true">
+    <item key="SG_Main_AddFriend_Confirm" maxProbability="0" />
+    <item key="SG_Recommend_Friend" maxProbability="0" />
+    <item key="SG_Recommend_AddFriend" maxProbability="0" />
+    <item key="SG_Conv_ChangeDress" maxProbability="0" />
+    <item key="SG_Conv_SendSMS" maxProbability="0" />
+    <item key="SG_Conv_VoiceRecording " maxProbability="0" />
+    <item key="SG_Conv_SendMessage" maxProbability="10" />
+    <item key="SG_PG_CreatePG_Submit" maxProbability="0" />
+    <item key="SG_PG_SendFile" maxProbability="0" />
+    <item key="SG_PG_SendPGMessage" maxProbability="0" />
+    <item key="SG_ManyConv_SendMessage" maxProbability="0" />
+    <item key="SG_Main_HistoryRecord" maxProbability="0" />
+    <item key="SG_HistoryRecord_OpenRoam" maxProbability="0" />
+    <item key="SG_SendMsg_Feeling" maxProbability="0" />
+    <item key="SG_SendMSG_SendMessage" maxProbability="0" />
+    <item key="SG_SendMSG_TimingMessage" maxProbability="0" />
+    <item key="SG_MsgCenter_SendMessage" maxProbability="0" />
+    <item key="SG_MsgCenter_MyTimetable" maxProbability="0" />
+    <item key="SG_MsgCenter_Schedule" maxProbability="0" />
+    <item key="SG_MsgCenter_BirthRemind" maxProbability="0" />
+    <item key="SG_MsgCenter_Subscribe " maxProbability="0" />
+    <item key="SG_MsgCenter_MeetingRemind" maxProbability="0" />
+    <item key="SG_Main_MagicCube" maxProbability="0" />
+    <item key="SG_Main_AddressList " maxProbability="0" />
+    <item key="SG_Main_ChangeSkin" maxProbability="2" />
+    <item key="SG_Weather_Setting" maxProbability="0" />
+    <item key="SG_Weather_Subscribe " maxProbability="0" />
+    <item key="SG_Weather_Attention" maxProbability="0" />
+    <item key="SG_Main_UpdateOnLine" maxProbability="0" />
+    <item key="SG_AddrBook_Contact" maxProbability="0" />
+  </strikegold-detail>
+</strikegold-config>
